@@ -1,3 +1,5 @@
+// FSD - Feature Sliced Design
+
 import ReactDOM from 'react-dom/client';
 
 // import { App } from './components';

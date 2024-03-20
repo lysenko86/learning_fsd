@@ -2,4 +2,5 @@
 
 Demo of FSD architecture
 
-[guide](https://www.youtube.com/watch?v=pnMyvVK4B9E)
+[video guide](https://www.youtube.com/watch?v=pnMyvVK4B9E)
+[doc](https://rebrand-sliced.netlify.app/docs/intro)
